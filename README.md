@@ -2,11 +2,12 @@
 Msm Website
 ______
 
-Getting Started
+Getting Started:
+
 This readme will get you through the basic functions of our website.
 ______
 
-Prerequisites
+Prerequisites:
 To run the website, you just need a browser. 
 ______
 
@@ -18,7 +19,7 @@ Technologies used:
 Needs to be regularly updated
 ______
 
-Functions
+Functions:
 Needs updation regularly.
 ______
 

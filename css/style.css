@@ -460,7 +460,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 }
 
 .widget-contact {
-	text-align: left;
+	text-align: center;
 }
 
 
@@ -471,7 +471,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 }
 
 .company-social {
-	text-align: left;
+	text-align: center;
 }
 
 .company-social li{
@@ -499,18 +499,11 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 	margin:0;
 	padding:0;
 }
-.company-social .social-facebook a{background: #3873ae;}
-.company-social .social-twitter a{background: #62c6f8;}
-.company-social .social-dribble a{background: #d74980;}
-.company-social .social-deviantart a{background: #8da356;}
-.company-social .social-google a{background: #000;}
-.company-social .social-vimeo a{background: #51a6d3;}
-.company-social .social-facebook a:hover{background: #4893ce;}
-.company-social .social-twitter a:hover{background: #82e6ff;}
-.company-social .social-dribble a:hover{background: #f769a0;}
-.company-social .social-deviantart a:hover{background: #adc376;}
+
+
+.company-social .social-google a{background: #dd4b39;}
 .company-social .social-google a:hover{background: #333;}
-.company-social .social-vimeo a:hover{background: #71c6f3;}
+
 
 
 

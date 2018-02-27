@@ -489,7 +489,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
     height: 40px;
     line-height: 40px;
     text-align: center;
-    background: #3bbec0;
+    background: #3B5998;
 	color: #fff;
     -webkit-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
@@ -503,6 +503,8 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 
 .company-social .social-google a{background: #dd4b39;}
 .company-social .social-google a:hover{background: #333;}
+.comapny-social .social-facebook a{background: #3B5998;}
+.company-social .social-facebook a:hover{background:#333;}
 
 
 

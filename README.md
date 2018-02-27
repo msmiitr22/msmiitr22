@@ -8,6 +8,7 @@ This readme will get you through the basic functions of our website.
 ______
 
 Prerequisites:
+
 To run the website, you just need a browser. 
 ______
 
@@ -16,10 +17,12 @@ Technologies used:
 2. Git Version Control
 3. HTML
 4. CSS
+
 Needs to be regularly updated
 ______
 
 Functions:
+
 Needs updation regularly.
 ______
 

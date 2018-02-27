@@ -27,8 +27,9 @@ Functions:
 Needs updation regularly.
 ______
 
-Authors 
-Bhavesh Patidar & Praduman Goyal (Alphabetical Order)
+Authors (Alphabetical Order)
+1. Bhavesh Patidar
+2. Praduman Goyal
 ______
 
 Acknowledgments

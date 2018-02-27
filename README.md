@@ -28,8 +28,7 @@ Needs updation regularly.
 ______
 
 Authors 
-1. Praduman Goyal
-2. Bhavesh Patidar
+Bhavesh Patidar & Praduman Goyal (Alphabetical Order)
 ______
 
 Acknowledgments

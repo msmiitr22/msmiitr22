@@ -2,6 +2,26 @@
 body{
     font-family: 'Quicksand', sans-serif;
 }
+.row{
+	width: 70vw;
+	margin-left: 15vw;
+	align-content: space-between;
+	align-items: space-between;
+}
+.img-box{
+	text-align: center;
+}
+.col-md-4{
+	text-align: center;
+	border: 1px solid #333333 ;
+}
+.col-md-4:hover{
+	box-shadow: 0px 5px 7px grey;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-moz-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+}
+
 .team{
     padding:75px 0;
 }

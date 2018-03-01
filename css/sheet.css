@@ -3,3 +3,6 @@
 	width: 60px;
 	height: 60px;
 }
+.service-box:hover{
+	box-shadow: 2px 5px 4px #666;
+}

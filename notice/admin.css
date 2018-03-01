@@ -1,0 +1,41 @@
+body{
+	text-align: center;
+	font-family: nunito;
+}
+h1{
+	font-family: NUNITO;
+}
+form div div div{
+	display: inline-block;
+	width: 40%;
+}
+form div div{
+	margin: 10px;
+}
+.define{
+	padding-right: 3%;
+	text-align: right;
+}
+.box{
+	padding-left: 3%;
+	text-align: left;
+	font-size: 20px;
+}
+.formi{
+	height: 20px;
+	width: 15vw;
+}
+.formc{
+	width: 30vw;
+	height: 20vh;
+}
+.submit{
+	width: 10vw;
+	height: 5vh;
+	border-radius: 5px;
+	border: 0px black solid;
+}
+.submit:hover{
+	border: 1px black solid;
+	box-shadow: 2px 2px 8px black;
+}

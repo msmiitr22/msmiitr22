@@ -1,0 +1,71 @@
+.main{
+	font-family: nunito;
+	text-align: center;
+}
+.col-md-6{
+	display: flex;
+	justify-content: center;
+}
+.subbatch{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 80px;
+	height: 80px;
+	font-size: 20px;
+	background-color: #416f85;
+	color: #2e2e2e;
+	box-shadow: 2px 5px 5px black;
+}
+.subbatch:hover{
+	
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-moz-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+	box-shadow: 0px 0px 0px black;
+}
+.day-tt{
+	display: flex;
+	justify-content: center;
+	margin-top: 5vh;
+	margin-bottom: 5vh;
+}
+.day-tt-slot{
+
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-moz-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+	display: inline-flex;
+	flex-direction: column;
+	min-width: 80px;
+	min-height: 200px;
+	padding: 2px;
+	justify-content: center;
+	align-items: center;
+	border: 1px #42f44e solid;
+	margin: 2px;
+}
+.day-tt-slot:hover{
+
+	background-color: rgba(66,244,78,0.5);
+	cursor: pointer;
+}
+.days{
+	border: none;
+}
+.time{
+	display: block;
+}
+.details{
+	display: block;
+}
+#s3-tday{
+	display: none;
+}
+#s4-tday{
+	display: none;
+}
+#s3:hover, #s4:hover{
+	cursor: pointer;
+
+}

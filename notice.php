@@ -46,11 +46,11 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#intro">Home</a></li>
-        <li><a href="./index.html/#about">About Branch</a></li>
+        <li class="active"><a href=",/index.html#intro">Home</a></li>
+        <li><a href="./index.html#about">About Branch</a></li>
 		<li><a href="./index.html#service">Features</a></li>
 		<li><a href="./index.html#contact">Contact Us</a></li>
-		<li><a href="#">Branchmates</a></li>
+		<li><a href="./branchmates.html">Branchmates</a></li>
       </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -196,7 +196,7 @@
 				<div class="col-md-12 col-lg-12">
 					<div class="wow shake" data-wow-delay="0.4s">
 					<div class="page-scroll marginbot-30">
-						<a href="#intro" id="totop" class="btn btn-circle">
+						<a href="#" id="totop" class="btn btn-circle">
 							<i class="fa fa-angle-double-up animated"></i>
 						</a>
 					</div>

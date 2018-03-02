@@ -1,0 +1,16 @@
+.body{
+	background-color: #dba7a7;
+background-image: url("https://www.transparenttextures.com/patterns/crisp-paper-ruffles.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+}
+.slider{
+	width: 70vw;
+	height: 80vh;
+	margin-left: 15vw;
+	margin-top: 100px;
+	text-align: center;
+}
+.heading{
+	font-family: Nunito;
+}

@@ -35,7 +35,7 @@ body{
 {
 	color: #fff; font-family: 'Quicksand', sans-serif, cursive; font-size: 65px; font-weight: normal; line-height: 60px; margin: 10px 0 20px; text-transform: uppercase; text-shadow: 2px 2px 0 #000, margin: 10px 0 24px; text-align: center;
     border-bottom: double #555;
-   	margin-top: 100px;
+   	margin-top: 80px;
 }
 .row{
 	width: 80vw;

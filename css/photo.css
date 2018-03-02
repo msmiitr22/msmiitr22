@@ -5,12 +5,24 @@ background-image: url("https://www.transparenttextures.com/patterns/crisp-paper-
 
 }
 .slider{
-	width: 70vw;
-	height: 80vh;
+
 	margin-left: 15vw;
 	margin-top: 100px;
 	text-align: center;
 }
 .heading{
 	font-family: Nunito;
+	display: block;
+	text-align: center;
+	margin-top: 100px;
+}
+.item img{
+	width: 70vw;
+	height: 80vh;
+	overflow: hidden;
+
+}
+h3{
+	margin-top: 100px;
+
 }

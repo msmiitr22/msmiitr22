@@ -14,17 +14,22 @@ To run the website, you just need a browser.
 ______
 
 Technologies used:
-1. Vim text editor
+1. Sublime and other text editors
 2. Git Version Control
 3. HTML
 4. CSS
+5. PHP
+6. JS
+7. Heroku
 
-Needs to be regularly updated
 ______
 
 Functions:
 
-Needs updation regularly.
+1. Doc Share
+2. Notice Board
+3. Time Table
+4. Photoshare(you may call it Snapshots)
 ______
 
 Authors (Alphabetical Order)
@@ -34,7 +39,7 @@ ______
 
 Acknowledgments
 1. Everyone whose code was used somewhere or the other.
-2. Branch mates( without them we couldn't even think about it).
+2. Branch mates(without them we couldn't even think about it).
 3. Literally, everyone.
 ______
 

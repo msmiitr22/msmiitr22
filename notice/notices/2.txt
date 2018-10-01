@@ -1,4 +1,6 @@
 XX-XX-XXXX
 XX:XX --
-HEADIG(*NO NOTICE*)
+
+HEADING (*NO NOTICE*)
+
 ***no notice***

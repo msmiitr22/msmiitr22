@@ -1,6 +1,6 @@
 #msmiitr22
 
-Msm Website
+Msm aka (Applied Mathematics - the branch with the highest progress rate) Website
 ______
 
 Getting Started:
